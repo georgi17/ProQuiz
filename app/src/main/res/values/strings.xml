@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProQuiz</string>
+    <string name="start">Start ></string>
+    <string name="welcome">Welcome!\nPlease answer the following questions:\n Click SUBMIT when you are finished.</string>
+    <string name="submit">Submit</string>
+
+</resources>

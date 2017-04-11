@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Q1">1. What is the capital of Puerto Rico??</string>
+    <string name="Q1_option1">Berlin</string>
+    <string name="Q1_option2">Roseau</string>
+    <string name="Q1_option3">San Juan</string>
+    <string name="Q1_option4">Fort-de-France</string>
+
+    <string name="Q2">2.  What can cause a concussion?</string>
+    <string name="Q2_option1">A bump or blow to the head</string>
+    <string name="Q2_option2">Activities that suddenly increase heart rate</string>
+    <string name="Q2_option3">A hit to the body that makes the head move rapidly</string>
+    <string name="Q2_option4">Any other activity that makes the head move rapidly</string>
+
+    <string name="Q3">3. Name the only footballer to have played for Liverpool, Everton, Manchester City and Manchester United..</string>
+
+    <string name="Q4">4. What procedure involves cutting the connections to and from the prefrontal cortex of the brain?</string>
+    <string name="Q4_option1">Radiotherapy</string>
+    <string name="Q4_option2">Lobotomy</string>
+    <string name="Q4_option3">Cardiology</string>
+    <string name="Q4_option4">Acupuncture</string>
+
+    <string name="Q5">5. Which of the following are properties for metals?</string>
+    <string name="Q5_option1">High electrical conductivity</string>
+    <string name="Q5_option2">High densityy</string>
+    <string name="Q5_option3">High ionization energies</string>
+    <string name="Q5_option4">Not malleable or ductile</string>
+
+    <string name="Q6">6. Sushi is traditionally wrapped in  seaweed?</string>
+    <string name="Q6_option1">True</string>
+    <string name="Q6_option2">False</string>
+
+    <string name="Q7">7. Which famous battle between the British Royal Navy and the combined fleets of the French Navy and Spanish Navy took place on 21st October 1805?  </string>
+</resources>
